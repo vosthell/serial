@@ -34,7 +34,7 @@ public class clsUtils {
     //CLAVE
     public String passBD = "majcp071102kaiser";
     //BD
-    public String nameBD = "SUPERTODO";
+    public String nameBD = "goliak_jg";
     //public String nameBD = "GOLIAK";
     //TITULO DE  LA VENTANA
     public String tituloVentanaMensaje = "Atención!";
